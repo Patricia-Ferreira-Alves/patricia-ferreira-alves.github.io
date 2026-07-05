@@ -89,12 +89,10 @@ object {
     margin-left: 1em;
 }
 
-/*
-img.resize {
-    width:540px; 
-    height: auto;
+iframe {
+    max-width: 100%;
 }
-*/
+
 
 .listeProjet {
     margin-top: 5em;
