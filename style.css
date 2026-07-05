@@ -85,12 +85,13 @@ video {
 }
 
 
-object {
-    margin-left: 1em;
-}
-
 iframe {
     max-width: 100%;
+}
+
+
+object {
+    margin-left: 1em;
 }
 
 
@@ -168,5 +169,9 @@ iframe {
 
     .mainContent div {
         max-width: 100%;
+    }
+
+    iframe {
+        width: 100%;
     }
 }
